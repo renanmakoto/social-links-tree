@@ -33,13 +33,13 @@ body {
 }
 
 .gradient {
-    background: linear-gradient(to right, #000000, rgb(0, 146, 191));
+    background: linear-gradient(to right, #000000, rgb(0, 102, 191));
 }
 
 .profile-picture {
     width: 200px;
     border-radius: 100%;
-    border: 5px solid rgb(0, 146, 191);
+    border: 5px solid rgb(0, 102, 191);
 }
 
 .username {
