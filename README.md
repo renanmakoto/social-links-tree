@@ -4,8 +4,9 @@
 
 <p align="center">You may access the application through the link below:</p>
 
-<p align="center">https://renanmakoto.github.io/social-media-links/</p>
+<p align="center">https://brunocalve.netlify.app</p>
 
+<div align="center">
 TECHNOLOGIES USED:
 
 
@@ -17,4 +18,4 @@ TECHNOLOGIES USED:
 <p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
 
 
-https://brunocalve.netlify.app
+
